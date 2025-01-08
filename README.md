@@ -16,7 +16,6 @@ My World.
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript (if any)
 
 ## Contributing
 Feel free to fork the repository and contribute!
