@@ -1,7 +1,7 @@
 # My-World.com
 This website is education purpose and fun 
 # Project Name
-Short description of your project.
+My World.
 
 ## Features
 - Feature 1all apk
